@@ -1,3 +1,4 @@
+---
 - name: Install system packages, Node.js, and create user
   hosts: all
   become: yes
