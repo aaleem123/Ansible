@@ -1,6 +1,6 @@
 
 **🚀 Ansible EC2 Node.js Deployment Project**
-Ansible EC2 Node.js Automation project! This project demonstrates how to set up networking, and deploying a Dockerized Node.js app automatically using Ansible.
+- Ansible EC2 Node.js Automation project! This project demonstrates how to set up networking, and deploying a Dockerized Node.js app automatically using Ansible.
 
 **🐾 Project Highlights**
 - ✅ Automated Nodejs app in Ansible playbook
