@@ -1,5 +1,21 @@
-Here is the node-app for Ansible.
-Screenshots as below :)
+
+**🚀 Ansible EC2 Node.js Deployment Project**
+Ansible EC2 Node.js Automation project! This project demonstrates how to set up networking, and deploying a Dockerized Node.js app automatically using Ansible.
+
+**🐾 Project Highlights**
+- ✅ Automated Nodejs app in Ansible playbook
+- ✅ Deploy a Node.js app via Docker on EC2
+- ✅ Uses AWS CLI & Ansible with boto3 integration
+
+**🌍 Technologies Used**
+- Ansible 🎛️
+- AWS EC2 ☁️
+- Docker 🐳
+- Node.js 🟢
+- GitHub source code
+- Ubuntu via WSL 🐧
+
+**Screenshots as below :)**
 
 
 ![Screenshot 2025-06-26 163838](https://github.com/user-attachments/assets/743ba289-78fd-4064-9256-8714d7e3d694)
